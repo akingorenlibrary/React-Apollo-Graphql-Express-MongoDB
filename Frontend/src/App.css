@@ -1,0 +1,26 @@
+/* App.css */
+form {
+  display: flex;
+  flex-direction: column;
+  max-width: 300px;
+  margin: 20px 0;
+}
+
+input, textarea {
+  margin: 5px 0;
+  padding: 8px;
+  font-size: 14px;
+}
+
+button {
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #45a049;
+}
